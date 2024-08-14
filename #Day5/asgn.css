@@ -1,0 +1,64 @@
+/* Question no. 1  */
+body{
+    background-color: wheat;
+}
+
+/* Question no. 2 */
+
+p{
+    color: #964B00;
+}
+
+/* Question no. 3 */
+
+h1 , h3 ,  p  {
+    text-align: center;
+}
+
+/* Question no. 4 */
+
+h1 {
+    color: red;
+}
+
+h3{
+    color: black;
+}
+
+/* Question no. 5 */
+
+body{
+    font-family: Georgia;
+}
+
+/* Question no. 6 */
+
+a{
+    text-decoration: none;
+    color: rgb(0 255 0);
+}
+
+/* Question no. 7 */
+
+button{
+    background-color: white;
+    color: blueviolet;
+}
+
+/* Question no. 8 */
+
+textarea{
+    color: #000000;
+}
+
+/* Question no. 9 */
+
+p{
+    line-height: 30px;
+}
+
+/* Question no. 10 */
+
+span{
+    text-decoration: underline;
+}
