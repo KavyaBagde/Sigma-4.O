@@ -1,0 +1,66 @@
+/* PARTA(Selectors) */
+
+/* Question no. 1 */
+#mainTopic{
+    color: blue;
+}
+
+/* Question no. 2 */
+*{
+    text-align: center;
+}
+
+/* Question no. 3 */
+h1,h3,h5{
+    font-family: Georgia;
+}
+
+/* Question no. 4 */
+.para{
+    color: white;
+    background-color: cornflowerblue;
+}
+
+/* Question no. 5 */
+div button{
+    background-color: purple;
+    color: azure;
+}
+
+/* PARTB(Pseduoclass&elements) */
+
+/* Question no. 6 */
+div button:hover{
+    background-color: yellow;
+    color: blue;
+}
+
+/* Question no. 7 */
+p:nth-of-type(2n-1){
+    color: yellow;
+}
+
+/* Question no. 8 */
+h1::first-letter{
+    color: red;
+}
+
+/* Question no. 9 */
+#yes:checked + label{
+    color: darkgreen;
+}
+
+/* Question no. 10 */
+
+/*
+h1 = 001
+#mainContent = 100
+.main = 10
+div.main = 11
+
+correct order is :
+#mainContent
+div.main
+.main
+h1
+*/
