@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+div{
+    width: 55vw;
+    height: 20vh;
+    border: 2px solid black;
+    text-align: center;
+    line-height:20vh;
+}
